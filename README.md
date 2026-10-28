@@ -15,4 +15,4 @@ All projects are simulated on a computer - no physical hardware.
 
 ## Status
 
-Step 0 - repository created. Learning in progress.
+Step 0 complete. Lesson 1 (C# variables) done. Next: Lesson 2 - conditions.
