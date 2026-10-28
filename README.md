@@ -15,4 +15,4 @@ All projects are simulated on a computer - no physical hardware.
 
 ## Status
 
-Lessons 1-2 done (variables, conditions). Next: Lesson 3 - loops.
+Lessons 1-2-3 done (variables, conditions, Loops). Next: Lesson 4 - Methods.
