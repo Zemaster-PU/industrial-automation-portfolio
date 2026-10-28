@@ -15,4 +15,4 @@ All projects are simulated on a computer - no physical hardware.
 
 ## Status
 
-Step 0 complete. Lesson 1 (C# variables) done. Next: Lesson 2 - conditions.
+Lessons 1-2 done (variables, conditions). Next: Lesson 3 - loops.
