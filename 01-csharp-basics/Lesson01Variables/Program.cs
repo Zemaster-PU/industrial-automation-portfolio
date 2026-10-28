@@ -9,8 +9,8 @@ double tankLevel = 68.5;
 // bool: a true or false value
 bool motorRunning = true;
 
-// String: text, always in double quotes
-String machineName = "Filling Station 1";
+// string: text, always in double quotes
+string machineName = "Filling Station 1";
 
 Console.WriteLine (machineName);
 Console.WriteLine ("Parts produced: " + partsCount);
