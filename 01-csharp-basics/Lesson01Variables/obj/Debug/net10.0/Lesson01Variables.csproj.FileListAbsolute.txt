@@ -1,0 +1,15 @@
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\bin\Debug\net10.0\Lesson01Variables.exe
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\bin\Debug\net10.0\Lesson01Variables.deps.json
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\bin\Debug\net10.0\Lesson01Variables.runtimeconfig.json
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\bin\Debug\net10.0\Lesson01Variables.dll
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\bin\Debug\net10.0\Lesson01Variables.pdb
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.AssemblyInfoInputs.cache
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.AssemblyInfo.cs
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.csproj.CoreCompileInputs.cache
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.sourcelink.json
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.dll
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\refint\Lesson01Variables.dll
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.pdb
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\Lesson01Variables.genruntimeconfig.cache
+C:\IMPORTANTS\Industrial Automation Portfolio\industrial-automation-portfolio\01-csharp-basics\Lesson01Variables\obj\Debug\net10.0\ref\Lesson01Variables.dll
