@@ -21,3 +21,14 @@ Console.WriteLine ("motor Running: " + motorRunning);
 tankLevel = 45.2;
 Console.WriteLine ("New Tank level: " + tankLevel + "%");
 
+
+// ===== Catch-up exercises - Lesson 1 =====
+// Exercise 1 (beginner): A second machine
+// Declare variables for another machine: name "Packaging Station 2",
+// partsCount = 25, motorRunning = false, temperature = 36.5 (double).
+// Print all four values, one per line, with a label for each.
+
+// Exercise 2 (intermediate): How many liters are in the tank?
+// The tank capacity is 1000 liters. Using tankLevel from the lesson (a %),
+// calculate and print: the current volume in liters, and how many liters
+// are missing to fill the tank.
